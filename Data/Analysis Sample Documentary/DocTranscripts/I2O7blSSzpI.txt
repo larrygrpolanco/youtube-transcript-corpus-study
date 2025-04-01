@@ -1,0 +1,357 @@
+On the 4th of January, 2012, a user on 4chan
+posted this image
+to the site's infamous /b/ or random board.
+The anonymous author, who went by the four-digit
+pseudonym 3301, challenged users to uncover
+a message hidden within the image.
+Unbeknownst to those who stumbled across it,
+someone had just set in motion one of the
+most elaborate scavenger hunts the internet
+has ever seen.
+Within minutes of the image being posted someone
+discovered that by opening the file using
+a text editor an appended string of readable
+text could be found.
+The string contained a cipher that, once deciphered,
+formed a link to yet another image.
+At first this appeared to be a dead end but
+using an application known as OutGuess
+users were able to extract hidden information embedded
+within the first image.
+The extracted information lead to a subreddit
+which in turn contained information about a book.
+The book along with a code could
+then be used to uncover a
+phone number that, when called,
+played this prerecorded message.
+By the following day, the initial image had
+been reposed all over the internet.
+A growing community of armchair detectives
+sought to unravel this elaborate puzzle but
+no one was quite sure what to make off it.
+What was the puzzle for?
+Who was behind it?
+What happens when you reach the end?
+Some naturally dismissed it as an elaborate
+joke while others perceived its complexity
+as evidence against it being the work of a
+mere troll.
+Before long, rumors began to circulate that
+this could be the work of some secret society
+or intelligence agency with the intent of
+recruiting individuals proficient in
+cryptography, steganography,
+and other related fields.
+Of course, it was nothing but a rumor.
+The two missing numbers mentioned in the recording
+proved to be the dimensions of the original image.
+After multiplying the width and height with
+3301 and using the product as a web address,
+users were taken to a website.
+The website consisted of a countdown as well
+as an image of a cicada.
+When the countdown reached zero, the page
+was updated with a list of coordinates.
+The coordinates pointed to locations around
+the globe.
+14 locations in 5 different countries.
+It was now up to participants living near
+the specified coordinates to rise from their
+comfortable armchairs and venture outside.
+Those who believed Cicada to be the work of an
+organization now felt their beliefs had been justified.
+In their opinion, only some international
+collective possessed the means and resources
+to create a scavenger hunt of this magnitude.
+This was not the work of your average troll.
+No, this had to be something else.
+At each location was a poster with the cicada
+symbol and a QR code.
+...on the bike shelter over here.
+See I got it... I got it right there.
+You can see the corners, I just kinda ripped it off.
+The codes linked to an image, the image contained
+a riddle, the riddle lead to a book,
+and the book lead to a website.
+But here, the puzzle took an unexpected turn.
+Only a select group of first arrivals to this website
+were accepted into the final stage of the puzzle.
+The site eventually closed down with the message:
+"We want the best, not the followers."
+The finalists were also warned not to collaborate
+with others nor to share the details of this
+private stage of the puzzle.
+Well, given that we know this, it's safe to
+say that not everyone heeded that warning.
+But those who did presumably advanced through
+the final stages before reaching the very
+end of the puzzle.
+After nearly a month of silence an image appeared
+on the subreddit announcing the conclusion
+of the puzzle and, just like that, the hunt
+was over.
+Cicada had supposedly found the
+"highly intelligent individuals" they were looking for
+and whatever happened to them is a bit of a
+mystery but more on that in a moment.
+The lack of an explanation was perceived by
+many as confirmation that the puzzle had been
+nothing but a wild-goose chase intent on wasting
+everyones time.
+After all, questions raised by the original
+image remained unanswered.
+What was the puzzle for?
+Who was behind it?
+What happens when you reach the end?
+However, as it later turned out, this was
+only the beginning.
+Whomever was behind this intricate game had
+the foresight to include an authentication
+code known as a PGP signature
+along with every clue.
+This allowed users to verify that an image
+or message was actually from Cicada as opposed
+to some impostor seeking to derail or hijack
+the puzzle.
+Cicada had repeatedly warned of such "false paths"
+and insisted that any message lacking
+a valid PGP signature should promptly be disregarded.
+That's why this image, posted exactly a year
+and a day after the first, provoked such a frenzy.
+After a year of lackluster imitations, this
+image finally matched the official PGP signature.
+Cicada was back and it was time for round two.
+The second puzzle was not too dissimilar from
+the first.
+The image enclosed a message, the message
+lead to a book, the book produced a link,
+and gradually the puzzle unfolded.
+At one point, a recording titled
+The Instar Emergence was uncovered.
+Another clue lead to a cryptic Twitter account
+which then lead to an image.
+The image proved vital to the progression
+of the puzzle but the inclusion of this runic
+alphabet would remain a mystery for quite
+some time.
+Much like the first puzzle the second swelled
+into the physical world when a list coordinates
+compelled participants to, once again, take
+to the streets in search of enigmatic posters.
+This time it was
+8 locations in 4 different countries.
+But eventually the trail went cold once again.
+Another select group of first arrivals had
+been accepted into a final private stage of the puzzle.
+Unlike the first puzzle the second did not
+conclude with an official message from Cicada.
+The trail merely went cold and Cicada vanished
+once more leaving us no closer to an explanation.
+However, this was still not the end.
+At the beginning of 2014
+it was time for round three.
+Once again the image enclosed a message, the
+message lead to a book, the book produced a link,
+and suffice it to say, it was more
+of the same.
+Except, this time, the puzzle seemed to revolve
+around a strange book.
+The book was titled Liber Primus, meaning
+First Book in Latin, and was evidently written by Cicada.
+The runic alphabet uncovered in 2013 finally made
+sense as the book was primarily written in runes.
+Even so, the meaning of the translated pages
+were cryptic at best.
+The book consisted of various philosophical and
+idealogical ideas and appeared to be their manifesto.
+Many have since compared the strange writings
+to that of a cult.
+Nevertheless, the book also comprised a myriad
+of clues and codes.
+For example, this page advised participants
+to seek out a website on the deep web
+but the site remains undiscovered.
+Another page lead to a website containing
+yet another recording titled Interconnectedness.
+However, a significant portion of the book
+has yet to be translated.
+The runic text on some of the pages appear
+to be obfuscated by layers of encryption
+that has yet to be decrypted.
+Of the 74 pages featuring runes, only 19 have
+been successfully translated.
+As 2015 came and went without the launch of
+a new puzzle, many came to suspect the Liber Primus
+had to be completed if Cicada was to return.
+This was more or less confirmed
+at the beginning of 2016
+when Cicada encouraged
+a reexamination of the book.
+More than four years have now gone by with minimal
+progress and near complete silence from Cicada.
+Questions raised by the original image have
+gone ignored.
+What is the purpose of these puzzles?
+Who's behind them?
+What happens when you reach the end?
+When the initial image appeared on 4chan back
+in 2012 many assumed Cicada 3301 to be an
+alternate reality game designed by a corporation
+to promote a new service or product.
+For example, Microsoft developed an elaborate
+ARG back in 2001 to promote the film
+Artificial Intelligence and a similar viral marketing
+campaign was used to promote the release of Halo 2.
+But the release of subsequent puzzles and
+the complete lack of commercialization
+has more or less eliminated that possibility.
+If we choose to believe some of the leaked
+information from the private end-stage of
+each puzzle than we do gain some insight into
+who this group might be.
+For example, at the end of the first puzzle,
+finalists supposedly received this email.
+In it, Cicada describe themselves as an international
+group who believe that privacy is an inalienable right.
+The aim of each puzzle is to recruit
+like-minded individuals
+in an effort to develop
+privacy-conscious solutions.
+The email then concludes with three questions.
+The PGP signature, which would have confirmed
+the authenticity of the email, was conveniently
+removed by the leaker.
+If a version with a valid signature does exists
+online I was unable to find it.
+But regardless of it's legitimacy, I find
+this question a bit odd.
+It reads:
+"Do you believe that information should be free?"
+Assuming the expected answer is yes then the
+very first sentence...
+"DO NOT SHARE THIS INFORMATION!"
+...seems a bit hypocritical.
+While the idea of a secret society recruiting
+individuals by means of elaborate cryptographic
+puzzles may seem a bit absurd or even conspiratorial,
+it's not entirely unfounded.
+Corporations and governments alike have employed
+similar recruitment techniques since at least
+the second World War.
+In 2013, the British intelligence agency GCHQ
+launched a recruitment program known as
+"Can You Find It?".
+Participants had to decrypt a number of cryptograms
+hidden across the internet and those who managed
+to solve the entire puzzle were offered a
+prize or a position at the agency.
+Google did something similar with enigmatic
+billboards back in 2004 and the US Navy launched
+a near-identical project in 2014.
+Okay, but then, what about the recruits?
+Why have we not heard from these chosen few?
+Well, we have.
+It's just that separating a legitimate finalist
+from an impostor is virtually impossible.
+In a 2015 interview with Rolling Stone, two
+alleged winners of the first puzzle chronicled
+the events beyond the final stage.
+After receiving an email from Cicada they
+were taken to a forum on the dark web.
+Here, they could communicate with some twenty
+some odd recruits as well as a handful of
+established members of Cicada.
+They were told that Cicada 3301 had been founded
+by a group of friends who shared common ideals
+about security, privacy, and censorship.
+The goal was to work as a collective to develop
+software applications in line with that ideology.
+As friends recruited friends, this secret
+society quickly expanded into a decentralized
+international organization.
+The recruits were then tasked with developing
+software that fit the ideology of the group
+and members of Cicada would oversee their
+progress.
+But without the allure of a puzzle to be solved,
+the recruits quickly lost interest.
+By the end of 2012 all but one had left and
+a few months later the site was gone.
+They never heard from Cicada again.
+One of the two winners, named Marcus Wanner, later
+elaborated further in a video by YouTuber Nox Populi.
+Furthermore, Nox Populi himself claims to
+be a winner of the second puzzle so I reached
+out to him and this is some of what he had
+to say.
+After completing the final stages of the second
+puzzle Nox Populi received an invitation to
+join Cicada 3301.
+However, he was not invited to a website but
+was instead merely told to be patient.
+Then, around May of 2013, all communication
+with Cicada abruptly ceased.
+This was around the same time as when the
+website dedicated to the winners of the first
+puzzle was suddenly taken down.
+Nox Populi later contacted other winners of
+the second puzzle to compare notes and their
+experiences were identical.
+In his own words:
+"All the stories were the same, we were invited
+to join 3301, then something happened and
+silence followed a request for patience."
+Nox Populi suppose that roughly five others
+completed the second puzzle in contrast to
+the twenty-odd winners of the first.
+In regards to who or what Cicada is, Nox Populi
+believes they could be a remnant of the cypherpunk
+movement of the late 80s and 90s.
+Essentially a small group of activists advocating
+widespread use of strong cryptography and
+privacy-enhancing technologies but he admits
+that there is no way to know for certain.
+If you want a far more comprehensive walkthrough
+of these puzzles as opposed to my brief overview,
+Nox Populi has produced a number of videos
+on his channel which I highly recommend.
+While these accounts cannot be verified they
+do make for a very compelling argument as
+to what Cicada is.
+A group of anonymous developers seeking to
+develop privacy-conscious applications by
+recruiting talented individuals via cryptographic
+puzzles.
+Sure, it is not nearly as exciting as a shadow
+government seeking world domination or any
+of the more fantastical theories but it is
+certainly more plausible.
+You have to keep in mind that no part of these
+puzzles would have required more than one person.
+The posters are often pointed to as evidence
+that this must be the work of some international
+organization but I beg to differ.
+I mean, right now, I could use any number
+of services to hire random persons around
+the globe to install posters for me.
+Although, given that no poster was located
+more than an hour away from an airport leads
+me to believe that one or multiple persons
+actually traveled to these locations.
+I mean, some of the posters were found within
+walking distance of an international airport.
+The fact is that anyone with a disposable
+income and enough time on their hands would
+be able to create the illusion of a vast secret
+network spanning the globe.
+Not saying that is the case with Cicada 3301 but it is
+nonetheless a possibility that cannot be discounted.
+With all of that being said, I personally
+think a loose-knit group of privacy-minded
+hobby-cryptographers to be the most plausible
+explanation.
+Cicada made their last public statement in
+April of 2017, merely warning against disinformation,
+but the current status of the third puzzle
+and the possibility of a fourth
+remains clouded in mystery.

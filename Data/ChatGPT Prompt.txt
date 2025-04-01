@@ -1,0 +1,97 @@
+ChatGPT Prompt:
+
+TABLE SCRAPPER
+
+Title: Create a Python Script to Collect YouTube Data Using the YouTube Data API
+
+Instructions:
+
+Develop a Python script that utilizes the YouTube Data API to gather various information from YouTube playlists and organize the results in a structured table format. The script should allow for customization by providing options to edit the following parameters:
+
+Playlist ID: The script should allow the user to input the Playlist ID from which they want to collect information.
+
+Pagination: Implement pagination to retrieve a specified number of results per request.
+
+Count: Provide an option to limit the number of videos to collect from the playlist.
+
+Language: Allow the user to filter videos by language if necessary.
+
+Video Duration: Include an option to filter videos by their duration (e.g., only collect videos longer than a certain duration).
+
+Upload Date: Allow the user to specify a date range for collecting videos based on their upload date.
+
+Sort by: Implement sorting options to order the results based on criteria such as relevance, date, views, etc.
+
+The script should collect the following data for each video and format it into a table with the following columns:
+
+Video Title
+Video ID
+Channel ID
+Playlist ID
+Description
+Publish Date
+Views
+Video Length
+The table format should have the following structure:
+Columns: 'Video Title' | 'Video ID' | 'Channel ID' | 'Playlist ID' | 'Description' | 'Publish Date' | 'Views' | 'Video Length' |
+
+Additionally, the script should have the functionality to export the collected data as a CSV file.
+
+Please include comments within the script to describe each section and the purpose of the code.
+
+Ensure that the Python script is well-documented and follows best practices for coding and error handling.
+
+
+
+Title: Evaluate and Optimize a Python Script for Collecting YouTube Data
+
+Instructions:
+
+You are tasked with evaluating and optimizing a Python script that utilizes the YouTube Data API to collect information from a YouTube playlist. Your goal is to assess the script's functionality, code quality, and efficiency. Follow these steps:
+
+Code Review: Examine the provided Python script and assess the following aspects:
+
+Code readability and style.
+Proper usage of functions and comments.
+Correct implementation of API key handling.
+Accuracy of data collection and filtering based on options like language, video duration, upload date, and sorting.
+Optimization: Suggest optimizations or improvements to the script's functionality, especially in terms of performance and error handling. Consider potential issues related to pagination, API rate limits, and error handling for API requests.
+
+Documentation: Evaluate the clarity and completeness of comments and documentation within the script. Ensure that the purpose and functionality of each section are well-explained.
+
+Security: Assess whether sensitive information, such as API keys and playlist IDs, is properly secured and recommend any security enhancements if necessary.
+
+Exporting: Check if the script correctly exports the collected data to a CSV file and if the filename can be customized. Verify that the CSV file contains the expected columns and data.
+
+Customization: Confirm that the script allows users to customize parameters like the Playlist ID, maximum results, language, video duration, upload date, and sorting criteria. Test the script with different input values.
+
+Error Handling: Ensure that the script handles errors gracefully, such as API quota exceeded errors, and provide suggestions for enhancing error handling.
+
+Testing: If possible, run the script with various inputs and playlists to validate its functionality and identify any potential issues.
+
+Final Thoughts: Summarize your assessment, including any recommended code changes or improvements. Highlight any security concerns or areas where the script could be made more robust.
+
+Please provide a thorough evaluation of the script, and if you identify any areas that need improvement or optimization, describe the changes or additions that should be made. Your goal is to make the script more efficient, reliable, and user-friendly.
+
+
+
+TRANSCRIPT SCRAPPER
+
+You need to create a python script scrape for transcripts from a table using the youtube_transcript_api package. The script will collect required information from a CSV file titled "search_query_youtube_videos.csv". Make the "search_query" section of that editable. From this csv file extract youtube ID from a 'Video ID' column to create the transcripts. Include comments describing each section.
+
+Then create a new table title "search_query_transcripts.csv" with a list of transcripts found and not found for each video.
+
+The table should includes these items:
+– 'Video Title'
+– 'Video ID'
+– 'Transcript Found': Yes or No
+
+The table should be formatted as follows:
+Columns: | 'Video Title' | 'Video ID' | 'Transcript Found' |.
+
+I will provide you with an example code to start from.
+
+
+COMMENT SCRAPPERS
+
+

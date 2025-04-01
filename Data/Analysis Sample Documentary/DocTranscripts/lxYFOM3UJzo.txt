@@ -1,0 +1,294 @@
+I remember like my first computer was a
+Pentium 100 megahertz. I would be in
+school and then a friend in school say 'I
+got a computer that's like 233 megahertz'
+and then like 'how! I just bought mine -
+mine is new and then now you have something that
+is like twice and a little bit more
+faster'. But that's how it happened for a
+long time this is that the hardware,
+every two years, it would get, for example,
+our CPUs, every two years, it would get
+twice faster and for software
+engineering in general what it meant for
+programmers, developers, is that if you
+write a code today and then don't do
+anything with this code, two years later
+you would have the opportunity to run
+this code twice faster but this is no
+longer true today so what it means that
+before we had only one CPU that was
+getting faster and faster but now it
+needs to have multiple of them and that
+actually changes the way we write
+software and the language that we can
+see, there are mainstream languages, they are
+not as efficient, as effective as it
+could be.
+Imagine that, you know, like in the 80's,
+the telephones, it's really getting
+widespread, everybody's installing a
+phone. If I have a city with millions of
+people, right, you need to install a bunch
+of telephone switches and you have calls
+coming all the time, right, then the calls
+going out, so information is coming and
+going. When it's working hours I have
+much more people using the phones,
+right, and all this kind of stuff. So they have to
+solve this problem three decades ago - and
+they did! So what happened is that
+Erickson, they created Erlang, this
+technology that they created, right, in
+the eighties, to solve all these problems,
+it's going to be perfect to solve those
+issues that we're having right now with
+concurrency, those issues that we're
+having with the web in general, right? I
+think that was the moment when I had the
+idea of creating a programming language. Like, 
+look I have this absolutely beautiful
+piece of software which is the
+Erlang virtual machine. I want to use it more
+but it's missing some stuff and I want
+to try adding this missing stuff. So in
+2012, it was the moment that I started
+working on Elixir part time and I think
+we can use the software to expose an
+alternative for the programming
+community if they are interested in
+solving all those challenges that we're
+having right now.
+You can do everything on the internet.
+You can find everything, you can book
+everything, but it's still in silos so
+you will find your flights on Skyscanner
+and Kayak; you will find your your red
+connections on Bahn DE. Here you have to
+figure out: how do I get to the airport?
+How much will my transition time will be?
+What is the prices of different
+tickets from different airports and so
+on, and the we thought it would be a
+great idea to have this in one UI. You
+would enter your direction and you
+will enter your destination and we find
+the whole itinerary. We immediately
+realize that this is something that is
+very hard to do. For every search that we
+do we have to open a lot of connections
+to different transport operators. We have
+a lot of connections open at the same
+time to different operators and you have
+to consume this data and process it in a
+smart way and it has to be fast. This was
+basically the point where we thought
+about what technology is the right
+technology to go for. One of the
+characteristics that we were looking for
+was scalability. We literally have tens
+of thousands of connections open all the
+time and in both directions and this is
+one thing that Elixir is very good for
+us and very low in terms of the
+resources you need on the server side. We
+pretty fast came to the conclusion that
+Elixir is the right technology for our
+problem.
+We used, of course, job boards like Honeypot and others to find people. We also
+basically train people that did
+something else before and train them to
+Elixir.
+Of course we have some hiccups sometimes, in the code or we have some bugs that
+we created but we never had outages in
+terms of the infrastructure which is for
+me a very good indication that this is
+the right technology decision because I
+never experienced this before.
+So one of the big things about Elixir
+and we get exactly from building on top of
+Erlang VM is that we can write
+distributed software software: software that runs
+in more than one machine. So you can see
+here I have two machines and so what I'm
+going to do is that I'm going to start one
+Elixir session on this machine and
+another Elixir session on this machine.
+So in this one I'm starting something
+called interactive Elixir on both of
+them but this one, this is Bob's machine, so
+I'm going to say, hey these Elixir
+and this has the name of Bob and we
+have a secret here; a cookie, which is a
+secret, but we'll just call it secret
+right now. So I'm going to start this
+session here on Bob and I'm going to do
+the same thing on Alice so I'm starting
+Alice at a session with the same
+cookie secret. Alright, the only way to
+do this is that I'm going to define some
+Elixir code and I know this is
+a little bit cliche, right, but I'm going
+to define a module called 'hello'. We have a
+function called 'world' in it and I'm going
+to, and what all this function does is
+that it prints 'hello world'.
+So I define this code, ignored the whole
+gibberish for now, but I define this code
+and now I can code 'hello' dot 'world',
+and you can see that it prints 'hello
+world'. Beautiful,
+right? So, it works. This is very exciting.
+So this is Bob's computer but now
+let's go to Alice's computer. If I try to
+evoke 'hello world', it doesn't work. Why?
+Because I defined this code. I defined
+the module 'hello' with the function 'world' on
+only Bob's computer, but we can solve
+this, right, because it's distributed I
+can make those machines talk to each
+other. So what I'm going to do here is
+that I'm going to say hey I want on
+Alice's machine she's going say 'hey, I'm
+going to tell Bob to execute this code
+for me' so I would say, 'hey, Bob', the Bob
+instance that is running on Bob's machine,
+'I want you to execute the 'hello world'
+code' and now when I do this we can see
+that we got 'hello world' printed back, we
+can see that it works right because
+Alice was able to tell Bob 'execute this
+code for me'. Bob executed that code
+and said, 'hey, I executed this code
+and this code has a hello world message
+that I'm sending back to you so you can
+print' and that's it.
+And what is really exciting about this
+is that we can build a bunch of
+interesting technology that just runs on
+these nodes being connected. So for
+example, the Phoenix web framework it has
+a presence feature and has a Pub/Sub
+mechanism. So with the PubSub, what you can
+do is that you can send the messages to
+everybody connected to any machine and
+with the presence feature you can know
+everybody who is connected in the
+whole cluster. You can know who is
+joining, who is leaving and we can do all
+that without adding databases, without
+adding third party dependencies. We just
+use the distributed feature which is
+really exciting. One of the things that
+we did since the beginning is that the
+development was always open; always open
+source. So anybody could join at any
+time and give their ideas, contribute
+share. So I also knew from the beginning
+that if I wanted this thing to happen I
+would have to go out and talk to a lot
+of people and go to different events and
+convince developers why they should care
+about the technology; one of the
+potentials of the technology and got
+them excited about it. We really started
+to see like an uptick in people using a
+Elixir and that was kind of like the
+beginning of a turning point because of
+like, people, they're actually
+starting to bet on this so you don't
+feel alone in the sense that you know
+there are other people believing in the
+potential wanting to push it forward. And
+you know, that the interest, it only
+started to grow and grow. In July 2014
+was when we had the first Elixir event.
+There's such a great vibe, everybody gets
+along and it's so easy to be able to
+just approach anybody that's there to
+ask questions.
+When I started with
+Elixir, I was amazed by the
+documentation that even was available at
+that time.
+Elixir is always typically thought of as being great for concurrency and
+fast and so if you're kind of solving
+those kind of problems then it's a
+really good choice.
+Whether you're building something to run
+on a Raspberry Pi zero, five dollar
+computer or a forty core server, like
+Elixir is going to be fantastically
+suited for it.
+You can't exactly replicate
+the environment in which people from the
+community are all in the single place.
+Elixir is gonna be on a track to start
+to conquer more and more industries.
+Some of the obvious ones that we've seen so
+far have been working with web
+development but the scalability there
+isn't just confined to building websites.
+We work together with Chris and Jose
+from the nerve side of things to be able
+to try to increase the number of
+concurrent connections and push the
+boundaries of how many devices we can
+actually get simultaneously connected to
+Phoenix, for example, because we really
+believe that it has capabilities of
+Internet of Things connectivity on the
+scale of millions of devices and having
+that kind of connectivity starts to
+really open up the language and the
+industry to start working in all these
+different kinds of ways.
+Phoenix is a web
+framework for the electric programming
+language and it really is like a
+batteries included web framework for the
+platform. The first version of Phoenix,
+as written, supported like 30,000 users
+on one server and then we made like 10
+lines of change to the code and that's
+what gave us 2 million users. What kind
+of problems or businesses could I build
+if what before took 100 servers could
+today take two servers and
+I think that's enabling a lot of
+innovation. So I think that's what's kind
+of bringing people in is this promise of
+things that were either impossible to do
+before or prohibitively expensive to do.
+Now as a single developer or a couple
+people you can come in and build
+something really compelling that
+wouldn't be doable before.
+ 
+ 
+Right now we are
+we are at the Elixir conference in Warsaw.
+We see Elixir conferences appearing
+all around the world so we have in Mexico,
+Brazil, throughout the United States we
+have a bunch of smaller conferences
+popping up and then there are all the
+different talks where we can learn new
+things and also which is always very
+interesting is to learn like use cases.
+You build the two and then people
+started using those two in these very different ways. If you're like, 'look, I
+actually realized that this, too, is also
+very good for these' and then you're like
+'it makes sense, like, I watch the talk and
+it makes total sense', so,
+all those things are very exciting. If I
+try to centralize and I try to do
+everything on my own I won't be able to
+do it but if we say, you know, everybody
+can contribute a small part to these and
+everybody together, the centralized can
+do that and bring the community forward,
+then we have a chance of actually making
+a lasting impact.
+Beautiful.

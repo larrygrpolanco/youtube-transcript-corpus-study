@@ -1,0 +1,176 @@
+how do i film, edit, color grade the videos that i 
+shoot on my iPhone 13 Pro Max?! i'm about to share  
+all of it with you like right now
+well if you've seen any of my recent short films 
+the Yosemite one the Light and Shadows one which  
+were all a hundred percent shot on this iPhone 13 
+Pro Max you may have wondered to yourself, "dang,  
+how did Bryan shoot and edit and color grade all 
+of this footage? it looks cinematic it definitely  
+doesn't look like it was shot on an iphone" so 
+i wanted to make this video to share with you  
+guys my secrets my tips my tricks on exactly how 
+i created these films and if you are shooting with  
+the iPhone 13 i'm hoping this video will help 
+you to go create some amazing content right in  
+the palm of your hand now if you didn't know i'm 
+shooting all of this footage in Cinematic mode  
+now i did do a full review on Cinematic mode if 
+you want to check that video out click up above  
+but cinematic mode on the iPhone 13 simply offers 
+you 30 frames per second at 1080p resolution in  
+Dolby Vision HDR so you can't actually manipulate 
+the settings beyond that i personally think the  
+footage still looks really good but one thing i'm 
+not a huge fan of is that 30 frames per second  
+it just looks a bit more like footage for a soap 
+opera or like live tv sports and the news one of  
+the first things that i do when i get my footage 
+into my video editing software adobe premiere pro  
+is actually set my project frame rate to 23.976 
+and then i take my 30 frames per second footage  
+and slow it down by 80 percent and this 
+gives me a much smoother feeling footage  
+if you take a look at some of these shots here 
+comparing the 30 frames per second footage  
+to that same footage slowed down by 80 percent 
+you can definitely see a huge difference  
+now also when you're shooting in Cinematic 
+mode you have two camera focal length options  
+the 1x camera and the 3x i pretty much shoot 
+all of my footage with the 1x camera which is  
+a 26 millimeter focal length and i found that 
+the artificial depth of field that Cinematic  
+mode creates is just better with the 1x camera 
+i do shoot some stuff at the 3x camera but i'm  
+typically not trying to create any depth of field 
+with it additionally i keep my aperture at f 2.8  
+i like a more shallow depth of field again this 
+all helps to create a much more cinematic look i  
+could bump the aperture to like f8 or i think it 
+even goes all the way up to f16 but i just prefer  
+a more shallow depth of field it just gives you 
+more of that like it was shot on a cinema lens  
+one thing i do when i open up the camera go to 
+Cinematic mode and shoot is adjust the exposure  
+i've personally found that the iPhone exposure 
+right at zero just feels a little too bright  
+not that it's overexposed but it just feels 
+a bit too bright for me so i usually take it  
+down to like negative one and it also saves me 
+a little bit of time in post-processing because  
+that much closer to the final product in terms of 
+coloring and exposure and all of that for my light  
+and shadows video i actually used my Ronin-S 
+gimbal and kind of rigged it to a piece to an  
+iPhone tripod it was kind of a sketchy situation 
+so i wouldn't recommend that you don't need  
+that nice of a gimbal for your iPhone what 
+i actually bought recently is the DJI OM 5  
+and it's much more adequate for the job at a 
+much better price point it's only 160 bucks it  
+keeps a fantastic battery charge on it you 
+can get really smooth shots with it you can  
+run with it it just does the job probably 
+about 80 percent of my shots maybe even 90  
+of my shots are with the gimbal and then i do some 
+handheld stuff if i'm getting tight detail shots i  
+usually don't want to be like trying to get into 
+tighter spaces with the gimbal and if i don't  
+need to be like running around with it you know 
+it's easy to just take it out of your pocket and  
+shoot with it like that without having to get the 
+gimbal set up i would definitely recommend this  
+for sure it's linked in the description click on 
+that link spend 160 bucks and get smoother footage  
+i personally use Adobe Premiere Pro to color 
+grade all of my footage and what i typically  
+do is actually create two iterations of Lumetri 
+color the first iteration of Lumetri color is  
+usually going to be adjusting basic settings 
+things like white balance exposure highlights  
+and shadows some basic tone curve adjustments now 
+keep in mind just the unedited Cinematic mode of  
+footage already looks good so i find that i don't 
+have to do a ton of crazy just basic adjustments  
+so that's all within that first iteration of 
+Lumetri color then i add an additional Lumetri  
+color and start to really dial in specifically 
+on the red green and blue tone curves this is  
+where i might add even more vibrance saturation 
+a lot more color and creative adjustments on that  
+second Lumetri color you might be asking well 
+bran why do you do the two layers of Lumetri  
+color why not just do one and i found that with 
+two layers of Lumetri color i can make a lot more  
+subtle yet still dynamic adjustments to the 
+footage i'm color grading with just one Lumetri  
+color i found that i'm pushing the sliders and the 
+control points a lot more to achieve the results  
+that i want it just ends up looking over edited 
+i wish i could give you an exact science to this  
+but so much of what i'm doing is referencing other 
+filmic looks films that i'm personally a fan of  
+just replicating that cinematic color now with all 
+of that in mind i'm super stoked to share with you  
+guys two preset packs that are for adobe premiere 
+one is based on the Yosemite short film and one  
+is based on the Light and Shadows film if you go 
+to the link in the description you can actually  
+buy those preset packs and with like one click get 
+the colors that i've been able to achieve i spent  
+a lot of time dialing in these colors and really 
+getting them to look very filmic very cinematic  
+they're specifically tailored for that cinematic 
+mode footage you can try it on other iPhone  
+footage as well check the link in the description 
+and get those creamy yummy delicious cinematic  
+colors the only other thing i do that makes my 
+footage feel very cinematic is add those black  
+bars to the top and the bottom of the footage 
+and that just gives you that more anamorphic  
+widescreen classic film look to it and i simply do 
+this by adding an adjustment layer and from there  
+i add a crop effects to the adjustment layer do a 
+15 crop on the top and the bottom of the footage  
+and there you go typically when i just have a 
+bunch of unedited iPhone shots i'm gonna start  
+cutting up and finding some of my most epic 
+and eye-catching shots first and then i'll  
+jump over to logic pro and start working on the 
+music and usually i'll get a rough idea down for  
+the soundtrack and i'll get that idea over into 
+premiere and start cutting a lot more of the film  
+and it's a bit of a back and forth between the 
+music and the cutting until i find a really good  
+spot with the music and then finish the cutting in 
+premiere and then finalize the music in logic this  
+is probably one of the most time consuming parts 
+is getting all of that to sync up and making sure  
+the story both visually and sonically makes sense 
+and meshes well together if you guys didn't know  
+which i would imagine you do at this point but i 
+did start a music licensing company called Moods  
+Sound Design i've personally been producing 
+music for over a decade now and i thought  
+with my video experience as well as my music 
+production experience might as well join those  
+forces and create a company that offers just good 
+music to videographers and filmmakers so if you  
+need good music for your videos which if you're 
+already making epic cinematic mode footage with  
+your iPhone you probably do need good music go to 
+MoodsSoundDesign.com and start a free trial with  
+us and you're probably going to find some pretty 
+sick music for your next video project so i hope  
+you're inspired and stoked by this video to go 
+out and create something epic with your iPhone  
+technology is getting pretty crazy with these 
+things and i'm super excited to see where it goes  
+within the next few years go get those preset 
+packs sign up for Moods Sound Design it's all  
+linked in the description and if you hit that like 
+button as well as the subscribe button that would  
+just warm my heart thank you guys so much for 
+watching i'll see you on the next video peace!
+you

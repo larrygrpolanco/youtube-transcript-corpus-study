@@ -1,0 +1,446 @@
+criminal cyber gang has stolen as much
+as a billion dollars from
+over 100 financial institutions over the
+past two years
+the gang which has been dubbed carbonac
+carbonac
+the authors of the report call it the
+great bank robbery of the modern era
+their ultimate goal was to steal as much
+money as possible
+and they largely accomplished that 2014
+russia in the middle of the night
+one of the kaspersky labs employees is
+called by quote
+the most stressed out guy he ever talked
+to
+unquote it was a bank employee of one of
+the largest russian banks
+and he was so paranoid that he didn't
+even want to reveal what was going on
+he feared that his phone might have been
+bugged and his emails hacked
+and insisted on a personal meeting as
+soon as possible
+it turned out that the bank's domain
+controller
+was sending sensitive data to unknown
+servers in
+china the domain controller is the most
+important server of any business
+and if you can access the domain
+controller you have control
+over everything else in that network
+this means that whoever gets their hands
+on this server
+can do everything from looking at
+insignificant customer data
+to adding and removing funds from
+accounts and
+even sending millions of dollars through
+the swift banking system so
+if this server is doing things that
+nobody knows about
+the bank probably has a very big problem
+astonished by the fact that someone
+hacked into the domain controller of a
+bank worth
+billions of dollars the kaspersky
+employees went to work
+they analyzed every single network phone
+and computer connected to the internal
+banking network
+at first they didn't find anything
+suspicious
+however some of the computers had the
+screen sharing software vnc
+installed on them and upon questioning
+the bank about it
+they found out that nobody ever
+installed it
+one of kaspersky's experts then thought
+that someone must be spying on the bank
+employees for some reason
+to test his theory he opened a blank
+word document on one of the computers
+and wrote
+hello he then waited and
+waited and waited until the computer
+suddenly began to type on its own
+hello you won't catch us was the reply
+the experts were now dead set on
+catching the mysterious hackers
+and went on to try and find out just how
+on earth they managed to gain control
+over something as important as the
+domain controller
+they discovered that a bank employee had
+received an email from someone who was
+claiming to be a legitimate customer
+however
+in reality this email was completely
+fake
+to make things even worse this email had
+a malicious word document attached to it
+the hackers had infected the file with
+their malware
+and once the bank's employee opened this
+document
+the malware activated itself and
+installed a vnc
+back door on the computer this is what
+is known
+as a phishing attack or to be more
+specific
+a spear phishing attack in these types
+of attacks
+hackers try to look as credible as
+possible by creating emails that mimic
+real people or businesses these emails
+usually have an
+infected file attached to them which can
+be anything from a word
+excel or powerpoint document and in some
+cases even images or video files
+once they successfully infected a
+computer the hackers could now remotely
+watch
+and control the machine the attackers
+then used this infected pc to infect
+the rest of the machines connected to
+the network and to search for the
+administrator's computer
+this is where the next phase of the
+attack begins
+they would slow down the admin computer
+by running as many background programs
+as possible
+and hoping that one of the bank
+employees would eventually contact
+it support to fix the pc and this
+is exactly what happened once the it
+support arrived
+they entered the admin passwords and
+tried to fix the problems on the
+computer
+however unbeknownst to them they didn't
+fix anything
+instead they had just compromised the
+security
+of the entire bank thanks to a key
+logger
+a program that records every keystroke
+made on the keyboard
+the hackers obtained the admin passwords
+and were now
+able to log into the admin account and
+infect the remaining network of the bank
+the hackers now had access to absolutely
+everything and this is where phase
+3 started they would spy on the
+employees for months until they knew how
+they operated and what protocols they
+followed
+they were basically a shadow employee
+silently watching and recording
+everything the bank was doing once they
+knew about all of the protocols the bank
+employees
+followed the robbery started
+first of all they would impersonate
+high-ranking banking employees and
+manually send
+massive amounts of money to their
+accounts via the international banking
+system known as
+swift secondly they used the bank's
+e-payment system to send money to their
+accounts
+which then again sent the money to other
+accounts located mostly in china
+and the us these accounts were then
+emptied by the henchmen of the group
+which are known as money mules
+the next method was akin to the stuff of
+hollywood movies
+because the hackers had access to the
+entire internal network of the bank
+they were able to remotely control atms
+and make them spit out cash whenever
+they wanted
+these atms were usually in remote places
+and the money was once again
+collected by money mules these methods
+were pretty amazing
+but it was the last procedure that was
+the most interesting one
+they would take accounts that had small
+amounts of money in them
+inflate them and then pocket the
+difference
+however this is where they messed up for
+the first time
+they accidentally inflated the account
+of an elderly russian man who
+only had 34 rubles in his account when
+he went to bed
+the next morning he had over 10 million
+rubles in the same account
+luckily for the hackers the bank thought
+they had made a mistake and no
+investigation was started
+even though the experts knew exactly how
+the hackers infected the bank
+they were not able to find any traces
+that would lead them to the stolen
+9 million us dollars and the case was
+eventually put on hold
+a few weeks later eugene kaspersky the
+ceo of kaspersky labs
+traveled to a cyber security conference
+in singapore
+there he wanted to talk about his
+experience with the carbonic hackers
+and to his surprise it turned out that
+this was not
+an isolated case europol
+the european union's law enforcement
+agency
+had also registered a few of these
+attacks on european banks
+the two then decided to team up with the
+banks that had been hit by carbonic
+different cyber security specialists and
+a few experts from other intelligence
+agencies
+the group then formed the joint cyber
+crime
+action task force also known as jcat
+and started to pour resources into
+hunting the mysterious carbonic group
+at first they didn't find any clues
+about the hackers
+until one of the kaspersky labs
+employees found a tiny mistake
+in the carbonic code this mistake
+enabled the experts to send a request to
+the carbonic command and control server
+in basic terms if they sent a very
+specific message to this server
+they would receive a very specific
+answer however
+there was one problem they had to send
+this request to the carbonic command and
+control server and not any other server
+but nobody knew the physical nor the
+digital address of this carbonic server
+this meant that the kaspersky team had
+to literally
+scan the entire internet and send this
+request
+to every single server connected to the
+web
+hoping that one of the servers would
+eventually answer them with the message
+they were looking for
+after two days they got exactly what
+they wanted
+the carbonic command and control server
+answered their request
+and as a result of this the experts were
+able to find it
+the server was located in the country
+with the best it infrastructure in
+europe
+and the second best connected country in
+the world
+the netherlands the dutch police quickly
+managed to get their hands on the server
+and invited the experts to investigate
+it the analysis of this command and
+control server then revealed the
+terrifying true
+scope of the carbonic attacks they
+weren't just targeting banks in europe
+and russia
+but in almost every country in the world
+from china bangladesh india and other
+asian countries
+to africa and even the usa tonight the
+u.s
+is under cyber attack as federal
+officials warned that a likely
+russian-based hack
+has penetrated deep into u.s national
+security infrastructure
+the breach is widespread and there are
+growing concerns tonight
+about what may come next without anyone
+noticing
+the carbonic group had been infiltrating
+hundreds of financial institutions and
+stolen
+over 700 million us
+dollars after this incident the
+investigation got a lot more serious
+the jcat task force began to cooperate
+with other intelligence agencies that
+were also searching for the same
+criminals
+these included organizations such as the
+fbi
+cia romanian russian and moldovan
+intelligence agencies
+and many more as the experts got closer
+to the carbonic group
+they suddenly disappeared the hackers
+went
+silent for a few months only to return
+and commit
+the biggest mistake of their hacking
+careers
+taiwan 2016.
+the cybercrime group was back to
+business as usual
+but two of the money mules were
+inexperienced and would cause a massive
+problem for the carbonic group
+while they were retrieving money from
+some hacked atms
+an unsuspecting local taiwanese resident
+approached the bank to also get some
+money
+as the resident approached the two money
+mules got so nervous that they left as
+quickly as possible
+and forgot a stack of 60 000 nt
+dollars in the atm surprised about the
+strange behavior of the two men combined
+with the fact that they left a decent
+amount of money behind
+the resident decided to alert the police
+the taiwanese police then watched the
+cctv footage of the atms
+and immediately realized that something
+was off
+they acted incredibly quickly and before
+the criminals knew it
+the incident was all over the news the
+first bank
+reported that over 70 million nt dollars
+was withdrawn illegally the withdrawals
+were made
+in both taipei and tai zhong across 34
+atms and 20.
+to make matters even worse the police
+had over
+500 officers going through all of the
+cctv footage they could
+and they eventually tracked down the
+address of the two men
+the competence and unbelievably quick
+actions of the taiwanese police
+then led to the identification of 22
+suspects
+most of them were russians and the rest
+were from eastern
+europe the carbonic group was now
+in big trouble and even though 19 of the
+22 suspects had already escaped taiwan
+three were still there alone in a
+country that was hunting them
+and with millions of dollars in cash
+one of the remaining suspects was a
+latvian man known as andreas pergodovs
+he was the alleged leader of the
+operation and after he saw his face on
+national tv
+he quickly decided to cut his ties with
+the money
+he went to a mountainous area near
+donghu park in taipei
+hid two bags full of cash and proceeded
+to travel to the yilan province
+the other two remaining members of the
+gang were still in taipei
+and decided to store their part of the
+stolen money in the luggage lockers at
+the taipei train station
+only a few hours later two men arrived
+from eastern europe picked up the
+luggage
+and calmly went back to their hotel what
+they didn't know is that hundreds of
+police officers were watching them
+through the taiwanese cctv
+camera network once they arrived at the
+hotel
+and left their luggage in their room
+they went to have brunch in the hotel's
+restaurant
+this is where the police finally took
+action and arrested the two men
+in a perfectly coordinated operation the
+police also captured andreas paragudovs
+on the same day
+the taiwanese police had done what
+nobody else could
+and even though the arrested men were
+only henchmen that didn't know much
+about the carbonic group's leaders
+the taiwanese authorities managed to
+make the first arrest in the carbonic
+case
+this is where the manhunt for the
+leaders of the group begins
+spain 2018
+spanish authorities were investigating a
+criminal organization that was
+laundering money
+in spain with the help of interpol an
+international law enforcement agency
+the spanish police were able to find out
+who was delivering the money that was
+being laundered
+and who their clients were through sheer
+coincidence
+they discovered that one of the clients
+of the money laundering criminals was a
+ukrainian computer specialist
+known as dennis k after thoroughly
+investigating this man
+it was revealed that he had links to the
+russian and moldovan mafia
+and that he had coordinated several
+cyber attacks for them
+they had been cooperating since 2013
+and while the mafia provided dennis k
+with the money mules
+he would pay a hefty 40 percent of all
+of his profits to these eastern european
+criminal organizations
+dennis k and three other members of the
+group were finally arrested in the port
+city of alicante in 2018
+and upon raiding their property police
+found boxes full of jewelry
+two bmws and 15 000
+bitcoins which at the time were worth
+about 150 million
+us dollars the rest of the 1 billion us
+dollars was never found
+and even though dennis k was supposedly
+the leader of the group
+kaspersky labs believe that there are
+many more people involved in this
+either way the group is still active
+today
+and still stealing millions every year
+operating under different names
+such as fin 7 joker stash
+cobalt spider and many more
+if you enjoy this video please leave a
+like and subscribe
+also let us know what you think about
+the carbonic group
+video narrated by eric peabody

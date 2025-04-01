@@ -1,0 +1,198 @@
+This is a 20-minute VHS tape about a LEGO
+character called Jack Stone.
+When it came out in 2001, it was the first
+real computer-animated Lego movie.
+… but it hasn’t aged that well.
+"Incredible!"
+"Fantastic."
+Thirteen years later, The Lego Movie looked
+like this:
+Let’s watch that again.
+This is 2001.
+"There you have it."
+And this is 2014.
+"Yes, that's me."
+That is a huge difference.
+Here’s how they made it happen.
+“My name is Grant Freckelton, I’m a production
+designer at Animal Logic.”
+He’s overseen the animation style of movies
+like Legend of the Guardians, 300, and more
+recently, The Lego Movie, with co-directors
+Chris Miller and Phil Lord.
+“Chris and Phil were determined to sort
+of make sure the audience was confused about
+what they were seeing.
+You know is it actually stop motion, or is
+it CG film?”
+And that became a big debate.
+Before the movie came out, there was a lot
+of conversation about whether the movie was
+stop motion or computer animation.
+"It is, I would say 99% CG animation, but
+it respects the rules of stop motion animation,
+and is designed to emulate that style.”
+To understand what made that style so unique,
+you have to look back at what Lego movies
+used to look like.
+Early productions for themes like Bionicle,
+Star Wars, and Batman helped establish the
+whimsical feel of Lego movies — but the
+animation didn’t fit the physics of the
+toy itself.
+“There was this tendency to sort of treat
+the plastic like it was flexible rubber, which
+meant that the characters could flex and move
+a lot more than they might be able to in real
+life.”
+That style is typical of more traditional
+computer animation, like what you’d expect
+to see in a Pixar movie.
+Take a shot like this, for example.
+The background isn’t made of actual blocks,
+plastic limbs are bending in ways they couldn’t,
+and the faces are a bizarre blend of skin-like
+texture and Lego geometry.
+It doesn’t look like a scene you could make
+at home with your own Legos.
+Compare that to scenes from The Lego Movie,
+where everything — gunshots, smoke, water,
+fire, explosions, clouds, even mud on the camera
+lens — are all made up of Lego pieces as
+they look in real life.
+“We respected the hardness of the plastic
+by not necessarily bending on the elbow, which
+you can’t do on a real Lego minifig.”
+That means that any movement you see onscreen
+simulates the adjustment or replacement of
+an individual Lego piece.
+A joint or facial expression will never actually
+bend or stretch — it’ll either move slightly
+or be replaced by another piece.
+Early Lego movies lacked that level of discipline.
+They struggled because they fought back against the limitations of the medium instead of embracing them.
+But the creators of the Lego Movie saw things
+differently.
+“Characters that have limitations force you
+to find solutions and charming ways of doing things
+in different ways.
+I mean, look at R2-D2: he’s like, the ultimate
+limited character, he’s basically a bin
+with wheels that makes beeping noises, and
+that’s all he's got to work with.
+And yet he’s a really charming character and everybody loves him. Same with BB-8.
+And other characters. Same with the Muppets, they’re essentially sock puppets with googly eyes
+that you don't really have much control over.
+But it’s from those limitations that you actually get a lot of charm.”
+Every now and then, the Lego movie animators
+would let some joints overextend slightly
+to make room for a nod or a shrug of the shoulders...
+But overall, sticking to the plastic rule
+made for a believable movie.
+You can freeze frame any part of the Lego
+Movie and look at a scene that you could practically
+make at home.
+“We were always trying to echo and hark
+back to how a child might make a film.
+So we would alternate between thinking like
+responsible filmmakers working on a large-budget
+Warner Brothers animated film, and then we
+would suddenly approach a scene as if we were
+like a kid animating in their basement.”
+But the history of Lego movies actually does start
+with kids animating in their basements.
+In 1973, two Danish cousins, aged 10 and 12,
+shot a short film called Journey to the Moon
+on Super 8 film.
+They made it for their grandparents’ 50th
+wedding anniversary — and it’s widely
+considered to be the first time anyone made
+a motion picture with Lego blocks.
+Note that the “people” in this film are
+just little cylinder blocks — this was before
+any version of the minifigure design came
+out.
+Movies like this came to be known as “Brickfilms.”
+When fans were making these at home, they
+shot them in traditional stop motion.
+Footage was usually shot “on twos,” which
+meant that they would take 12 pictures — adjusting
+the characters every other frame — to make
+one second of film.
+Shooting “on ones” meant taking 24 pictures
+per second — this was usually reserved for
+making faster movements like running look
+smoother.
+When the Danish cousins sent their movie to
+the managing director of the Lego Group, they
+were rewarded with a tour of the Lego factory
+and sent home with large Lego sets.
+But Lego hasn’t always had the most positive
+reaction to homemade fan films like this one.
+Between 1985 and 1989, a teenage animator
+named Lindsay Fleay worked on a 16-minute
+short called The Magic Portal.
+He used borrowed equipment to shoot it in
+his parents’ basement.
+Before entering festivals and competitions,
+Fleay sent the film to Lego to see if they
+were interested in doing something with it.
+At first, Lego responded with a letter of
+approval.
+But soon, the company started expressing legal
+concerns and issued a letter demanding Fleay
+surrender all copies of the film within seven
+days.
+Lego ultimately backed down, but Fleay had
+already missed out on most major film festivals
+by then.
+Fleay actually went on to work at Animal Logic.
+He left before production on Lego projects
+began, but his movie had a huge influence
+on the world of Brickfilms.
+“If you look at the live action portion
+of The Lego Movie, you'll see
+Finn, the little kid, holds up a sort of cardboard  tube and across the side is written Magic Portal."
+The Lego Movie, of course, was a huge technical
+feat.
+There are 15,080,330 animated Lego pieces and 182 unique minifigures in the movie.
+Early mockups of buildings and vehicles were drafted on a free software called Lego Digital Designer
+Later on, in the animation software Maya,
+each brick was given profiles for fingerprints,
+dents, seam lines, scratches, and dust.
+It’s hard to imagine what The Lego Movie
+would be if it weren’t for the legacy of
+these early home experiments.
+Where most animated films use soft lighting
+modeled after paintings, The Lego Movie’s
+lighting was harsh, replicating the actual
+lamps that animators like Fleay used.
+Playful non-stop motion interludes — like
+levitation via fishing line — were part
+of Journey to the Moon long before they appeared
+in The Lego Movie.
+Even the final break from the Lego world into
+the real world to meet a human creator parallels
+The Magic Portal really closely.
+Ah, my film!
+It’s easy to miss on-screen, but The Lego
+Movie pays tribute to fan films in the background
+of this scene — these four clips are shorts
+submitted by fans.
+“Look at all these things that people built!”
+The homage was a nod to the fans.
+By doing that, the movie embraced the idea
+that amateur creators matter — and sometimes,
+the way they handle source material is far
+better than the way major studios are used to doing it.
+If you want to try any of this at home, you
+can actually use the same software that the
+animators of The Lego Movie used.
+It’s called Lego Digital Designer, it’s
+totally free off the internet.
+When I talked to Grant Freckelton, he challenged
+me to make this sort of pig-drawn carriage.
+I tried.
+I got the pigs, I got the wheels, but not
+much else.
+It’s very, very difficult.

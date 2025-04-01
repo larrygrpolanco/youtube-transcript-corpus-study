@@ -1,0 +1,367 @@
+[Music]
+criticality accidents are a technician's
+worst nightmare
+although a rare occurrence they can and
+do happen
+and can result in severe radiological
+exposure
+and an expensive cleanup process an
+event would unfold in the russian
+federation in 1997
+and would have some similarities to two
+of the most
+infamous criticality accidents those
+being the deaths linked to the demon
+core
+although not identical the accidental
+prompt criticality of some fissile
+material due to accidental dropping of a
+reflector
+does sound familiar to louis slotten's
+exposure
+the accident would result in a dead very
+experienced technician
+and a six and a half day excursion
+i'm going to rate this event here four
+on my painted plane difficult disaster
+scale
+this is due to the event being
+relatively localized and didn't result
+in significant contamination
+sarov is a city in nishni novgorod
+oblast russia
+originally founded in 1691 but our story
+starts quite a while after that
+in 1946 the town became a closed city
+and it was removed from all
+unclassified maps the reason was well
+but it found itself the center of the
+soviet nuclear weapons industry the all
+union scientific research institute of
+experimental physics
+was set up in the town which was a
+nuclear weapons design facility
+the institute over the years had set up
+testing grounds
+and hundreds of experimental facilities
+leading it to become
+the country's largest research and
+development organization
+as a quick side note the city became
+twinned with los alamos in the early 90s
+post-collapse of the ussr the nuclear
+center was still the heartbeat to the
+russian nuclear industry
+conducting experimental studies in the
+fields of physics
+radiobiology and the health effects of
+radiation
+set over 12 facilities one of the
+purpose-built facilities was the
+critical assembly
+which was designed to be an experimental
+tool to study fission reactions
+relevant for design and development of
+power research and impulse reactors
+the assembly was placed on a cart on
+tracks inside a room
+surrounded by concrete walls with a
+separate control room
+there are also other rooms for storage
+and workshops
+and each room had air samplers and
+detectors for measuring
+gamma radiation the critical assembly
+was essentially a piece of fissile
+material
+surrounded by two reflectors although
+the actual implementation was a little
+more complicated
+the assembly had the ability to move the
+fissile material
+inside a half sphere reflector up and
+down
+through the use of hydraulic pressure
+towards or further away from a fixed
+upper half sphere reflector for the
+construction of the assembly
+thorough calculations are used to ensure
+the fissile material remains subcritical
+the construction process involves
+successive layering of various materials
+including copper steel and uranium which
+are prepared in the form of sets of
+machined
+hemispherical shells of standard sizes
+which the technician can assemble into
+various configurations
+the process was broken into two parts
+first constructing the lower half of the
+critical assembly
+then the second top half below half of
+the research assembly
+is constructed on a table that can move
+vertically up and down using hydraulics
+for the first part the table had to be
+in the up position
+during construction of the assembly but
+the second part
+the lower assembly is lowered and the
+upper part is placed on a stand
+consisting of a ring
+where it can be positioned horizontally
+over the lower part of the system
+once the whole assembly is constructed
+the operator is then meant to go to the
+control room to undertake the experiment
+also i should say that during the
+construction process it's meant to be a
+two-person job
+the operator and a supervisor who should
+be double checking
+all of the work during the experiments
+the assembly was essentially a small
+fast reactor
+that can regulate itself in a rather
+clever way if the mathematics are
+correct
+then as the assembly heats up the
+materials expand
+reducing the effect of the reflectors
+and as it cools down
+the components return to their previous
+position the behavior is seen as
+sharp fluctuations of the measured
+neutron flux which stabilizes after
+several cycles
+after which the critical assembly
+operates at a constant level of neutron
+yield
+sensors placed inside the assembly room
+tell the operators the state of the
+materials
+which allows them to move up and down
+the lower sphere to change the power
+levels
+if the assembly went out of control it
+would melt thus ending the chain
+reaction
+and was an important safety feature all
+experiments using the assembly were
+strictly controlled
+via regulatory and technical framework
+set out by the russian federation
+ministry for atomic energy
+the procedures precisely outline the
+management requirements for work
+with critical assemblies they require
+that this type of work be conducted
+only by a group of trained technicians
+with each person being responsible for
+strictly defined actions
+within a sequence of operations which
+are closely supervised
+obviously this is important as a mistake
+can result in a criticality event
+which you know is not great but we can
+probably predict what is going to happen
+next
+roll on the morning of the 17th of june
+1997
+a 41 year old male named alexander
+zakharov
+set to recreate a 1972 experiment using
+uranium with a copper reflector assembly
+a technician was a very experienced
+worker with several hundred experiments
+under his belt
+he was familiar with the process for the
+particular assembly
+but contrary to the rules he was working
+alone in the hall
+zakharov had also broken another rule
+and that was by not properly filling out
+the appropriate paperwork for the
+experiment
+he had taken the dimensions for all of
+the components from the original 1972
+logbook
+but he had mistakenly written down the
+wrong outside diameter
+instead of 205 millimeters he noted 265
+millimeters
+at 10 50 am whilst placing the upper
+reflector on its stand above the fissile
+material
+it slipped from the technician's rubber
+gloved hand and
+fell onto the lower part of the assembly
+this sent the subcritical assembly
+prompt critical and a blue flash of
+light
+and a heat wave was experienced the
+lower part of the assembly was ejected
+downwards
+into the bottom of the stand knowing his
+mistake
+zacharov fled the room and reported to
+his superiors
+explaining the situation he claimed to
+have received
+more than a fatal dose initially he was
+conscious but within minutes his
+exposure began to take its effect
+the radiation protection personnel
+performed an initial radiological survey
+of the technician
+this detected the neutron induced gamma
+radiation emitted by radionuclides
+in his body it was estimated that he had
+received a whole body dose of 10 grey
+for comparison
+between 4 and 6 grey whole body dose has
+been lethal before
+zakharov was sent to hospital for
+treatment
+arriving at sarav occupational medical
+service
+at 11 45 in the morning on the 17th of
+june
+by this time he was experiencing nausea
+and he began to vomit
+increasing in frequency over the
+following two hours
+the sickness was lessened by 2pm by
+antimetic drugs
+the situation was looking pretty dire as
+his condition deteriorated
+it was decided in the evening that he be
+transferred for specialist care in
+moscow
+he was admitted to the clinical
+department of the institute of
+biophysics
+in the ministry of health at 9pm he was
+fully conscious but his fatigue and
+headache
+were persistent his hands showed signs
+of severe exposure
+they would become severely swollen
+during the first night between the 17th
+and the 18th of june
+on the morning of the 18th june the
+patient's general state was evaluated as
+critical
+and getting worse by the hour his hand
+injuries continued to worsen
+with the spreading of the swelling over
+more areas of the forearms
+on the 19th of june the condition of
+zacharov was dire
+by 2 pm x-rays showed fluid on the lungs
+and his arms were deteriorating rapidly
+later on in the day the decision to
+amputate both arms was taken
+and the surgery was performed around 4
+pm initially his condition was stable
+but
+sadly not for long at 2 45 in the
+morning of the 20th of june 1997
+his blood pressure dropped dramatically
+and at 3 20 in the morning
+around 66 hours after exposure the
+patient died
+but what happened to the critical
+assembly after zacharov left the room
+and was taken to hospital
+as the technician passed away in the
+early hours of the 20th of june
+the chain reaction would still be
+ongoing
+back to 10 50 in the morning on the 17th
+of june
+the specialists arriving at the accident
+facility
+had to determine the status of the
+critical assembly
+and the possible consequences of the
+accident at 11am
+evacuation of all staff from the
+building where the accident had occurred
+and a radiation survey outside the
+building was carried out
+by the early afternoon it was confirmed
+that there was no airborne or surface
+contamination
+but the assembly was still emitting
+significant neutron and gamma radiation
+which would preclude anyone from
+entering the room all but the dosameter
+furthest away from the experiment showed
+readings
+off the scale another meter was entered
+into the room
+and showed the neutron flux was stable
+hinting at the chain reaction
+being self-regulating obviously the
+chain reaction had to be stopped
+and this necessitated altering the
+assembly remotely
+the first step taken was to remove
+containers of nuclear materials
+which had not been used in the
+construction of the assembly this was
+conducted by using a robot
+once complete the same robot was used to
+alter the assembly
+at 12 45 in the morning of the 24th of
+june 1997
+when a vacuum gripper was used to remove
+most of the assembly from the sand
+leaving only the outermost lower copper
+hemis shell
+in place the remainder of the assembly
+was disassembled bringing an end to the
+incident
+during the excursion the radiation
+monitors in other rooms of the facility
+showed normal levels
+but a technician's personal dosameter
+red
+and neutron exposure of 45 grey
+and a gamma dose of 3.5 gray
+it was thought that the uranium had
+reached temperatures
+of up to 865 degrees centigrade during
+the excursion
+because the accident was solely down to
+zacharov and his infringement of the
+rules set out by the facility
+although his death is a tragic accident
+some comfort can be taken
+that no one else received elevated
+radiation doses
+although the iaea found the rules of the
+facility to be adequate
+they still did not prevent the accident
+after the accident
+experiments with the test rig were
+stopped to implement safety upgrades
+to the research operations
+this is a plain difficult production all
+videos on the channel are creative
+commons attribution share alike licensed
+playing difficult videos are produced by
+me john in a
+not so sunny south eastern corner of
+london uk
+help the channel grow by liking
+commenting and subscribing check out my
+twitter for all sorts of photos and odds
+and sods as well as hints on future
+videos
+i've got patreon and youtube membership
+as well so you can check them out
+if you fancy supporting the channel
+financially and all that's left to say
+is thank you for watching

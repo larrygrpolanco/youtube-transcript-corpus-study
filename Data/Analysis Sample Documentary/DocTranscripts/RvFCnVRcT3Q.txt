@@ -1,0 +1,409 @@
+Hey guys my name is Denver Riddle, I’m
+a colorist and filmmaker and if you're wondering
+how can I make the look of my films stand
+out through color grading in Premiere Pro CC
+and make my films look big budget?
+Well I’m going to reveal that here in this beginner
+crash course using the Lumetri color tools
+found in Adobe.
+We’re going to create this amazing look,
+you can download the look as LUT or look up
+table and easily apply this to your own footage.
+Also, while YouTube is a fantastic resource
+for learning about so many different kinds
+of subjects if you are looking for a step-by-step
+guide that takes you all the way through discovering
+the art of color grading and getting the big
+Hollywood film looks I want to let you know
+about a free training workshop I’m going
+to be doing where I reveal my top color grading
+secrets, to attend the just click the link
+below in the description and I hope to see
+you there.
+Alright, let’s do this thing!
+Here inside let’s set up our workspace for
+color grading,
+we’ll choose Color workspace and that will
+bring up the Lumetri color tools.
+In the top section, we have the Scopes…we
+have the Program Panel, where we see the clip
+we are currently working on, and the Lumetri
+Color panel over here on the side, where we can perform our grading.
+It’s also worth pointing out the Effects
+Control panel where we can do some other things,
+including adding and tracking color masks
+but more on that in a bit.
+Before we jump in and start grading this thing,
+let’s discuss basic terminology for how
+we define color.
+The three basic terms that we use to define
+color are Hue, Saturation, and Luma.
+Hue is the name we call colors.
+Saturation is the intensity or vividness of
+a hue.
+And Luma is the brightness or shade of hue.
+It’s also important to know how to read
+the scopes, which can be super beneficial.
+If you’re in the color workspace the scopes
+should appear but if not just click on the
+Lumetri scopes tab.
+The three scopes I always use are the waveform,
+the RGB parade and the vectorscope.
+The waveform let’s us correct for exposure.
+If I overlay an image on top of the waveform,
+you can see that the trace the stuff you see
+here actually corresponds with the image of
+the girl dancing.
+The RGB parade scope is helpful for correcting
+white balance issues, it reads similar to
+the waveform other than it’s broken out
+into the individual color channels of red,
+green and blue.
+With this scope, it makes it easier to spot
+imbalances if either the image is too cool
+or too warm.  How that will show is one channel elevated above the others.
+The Vectorscope, corresponds directly with
+the color wheel, and I’ve overlaid it here
+for convenience.
+It shows what colors are in the image as well
+as their saturation.
+The further the trace extends from the center
+of the scope, the more saturated or vivid
+the colors are.
+Here’s a simple but powerful workflow for
+color correction: We first correct the exposure
+or brightness of the image, second the white
+balance or color temperature if there are
+any issues and lastly the saturation by either
+increasing or reducing it.
+This will make more sense as we actually do
+it!
+Let’s first make a correction to the exposure
+of this image using the basic correction panel.
+Now if you look at the controls in the basic
+corrections panel you’ll see controls for
+highlights and shadows, but also for whites
+and blacks.
+Lumetri uses a terminology that’s slightly
+different than other grading applications.
+But here’s how the controls work:
+The Blacks control adjusts the darkest parts
+or the very bottom darkest point…and the
+Whites control adjusts the brightest or the
+very top of the image.
+The Shadows control affects the tonal range
+between the shadows and the midtones if say
+you want to recover or darken details in the
+shadow areas and the Highlights control effects
+the tonal range between the highlights and
+the midtones, or the upper part of the image
+if say again you want to recover or brighten
+details in the highlight areas.
+We’ll adjust the shadows first with the
+blacks control while watching the waveform.
+We want to bring the trace in the shadows
+down until the darkest parts of the image
+sit right above 0.
+Then we’ll bring up the highlights with
+the whites control so the brightest parts
+of the trace sits right about here near the
+top.
+Then let’s darken the undertones or the
+area between the shadows and the midtones
+by pulling the shadows slider to the left…
+this will help us remove that washed out look
+from the talents face.
+And then I’ll just adjust this a little
+more until we have good contrast and exposure.
+This is the first step.
+Next we’ll fix the color temperature since
+the image is looking cool.
+Looking at the RGB Parade scope, the blue
+trace is elevated above the red and green.
+Our goal is to “neutralize” or white balance
+the whites and we’ll want to find something
+in the image that is white.
+In this case, we’re going to use her sneakers
+as a reference.
+Now we can do this manually with the temperature
+and tint sliders or we can save some time
+and use Premiere’s auto White Balance Selector.
+To do that we just need to select and click
+on the white part of the image and voilaaa…
+the temperature and tint sliders automatically
+move to white balance the shot and the traces
+are aligned in the RGB Parade Scope.
+Now if for whatever reason we’re not happy
+with the result we can still manually adjust
+those sliders to our liking.
+In this case I think we can warm up the image
+a little bit.
+And that’s the second step.
+As our final step let’s boost the color
+a little bit by increasing the saturation.
+And here’s what the clip looks like before
+and after the correction.
+Pretty amazing right?
+On the next shot we’ll repeat the same procedure
+going for a nice balance of exposure with
+the the blacks, whites, shadows and highlights
+controls…the color temperature in the shot
+looks off too, so we’ll use the white balance
+eyedropper, this time, over the truck in the
+background.
+I’ll then refine it a little manually.
+Lastly we’ll add some saturation too.
+Moving to the third shot, we wanna match it
+to the first shot for obvious reasons, since
+this is pretty much a wide version of the
+same scene.
+To give us a good starting point let’s copy
+the correction from the first clip to this
+one.
+We’ll go to the first shot select it and
+use the keyboard shortcut command "C" (if you're on a Mac) or control
+"C" if you’re on Windows, we’ll then go
+back to this clip… right click on it and
+choose Paste Attributes from the dropdown
+menu.
+Make sure the Lumetri Color effect is checked
+and click OK.
+This copies the correction and gives us a
+good starting point, but you’ll see that
+we still have some matching issues.
+The image is too dark.
+To help with matching we can go to the Color
+Wheels & Match panel and activate the Comparison
+View.
+Now we can see a side by side comparison of
+our clip and any other clip in the timeline.
+There are also vertical and horizontal split
+options, but we’ll stick to the side by
+side option.
+Now here’s the really cool thing.
+In the side by side view, we can compare them
+visually AND in the scopes as well so this
+makes matching a breeze.
+To match the traces better we’ll bring up
+the general exposure using the exposure slider
+and then bring up the shadows with the blacks
+control.
+We can see now in the Waveform that both traces
+look like they’re at the same level.
+That’s a nice looking match.
+Now let’s disable the Comparison View
+option.
+In the interest of time I’ve already gone
+ahead and performed color correction to these
+remaining clips.
+But in this last shot you’ll see that the
+yellow pole looks greenish compared to the
+ones on the other shots.
+Well what’s really cool, is that with Lumetri
+we can fix that one color.
+So let’s open the HSL Secondary panel and
+then with the eyedropper, let’s click and
+drag through the pole to qualify it.
+To see what we’ve selected, let’s turn
+on the highlight feature by clicking here.
+Now clearly our selection isn’t enough.
+So let’s improve our selection with the
+hue, saturation and luma sliders.
+Then add just a little denoise and blur to
+soften the key.
+Okay now let’s turn the highlight feature
+off.
+We’ll then drag the color wheels control
+until the pole loses that green tone… and
+Bam!  Doneski!
+As a final touch, her face is looking a little
+dark so to lighten it we’ll accomplish that
+with a mask, where we’re effectively relighting
+the scene, something really cool we can do
+in post.
+Now in order to do this using Lumetri we’ll
+need to add a 2nd instance.
+To do that we need to open the effect panel
+and then If we go to the Project Panel we’ll
+see a double arrow located at the upper right
+side… go ahead and click on that and choose
+Effects from the dropdown menu.
+Once we find the Lumetri Color Effect we’ll
+drag it to the Effect Control panel… and
+this adds a second instance of lumetri where
+we can now use a shape mask.
+I’ll go ahead and add a mask and size and
+position it over here face like so… and
+add some feathering so this doesn’t stand
+out too much.
+Then to lighten his face, we’ll increase
+the shadows…and highlights…
+Playing it back you can that the talent’s
+face moves so this is a problem.
+To address that we’ll want to track the
+shape to her face, so going to the Effects
+Control Panel, we can easily do this by clicking
+on the track forward button.
+And badda, bing, bada bang!
+The shape moves perfectly with the movement
+of our talent’s face.
+Really amazing stuff!
+I love doing color grading in Premiere Pro
+CC.
+Okay now it’s time for the really fun part
+and that’s creating an awesome look for
+these clips.
+The Orange/Teal Look is a really popular look
+because it uses principles of color contrast
+to make the skin tones advance or pop out
+from the background.
+And frankly it just looks awesome so you’re
+going to love this!
+I’m gonna show you a quick way to apply
+the SAME look on top of all of these clips
+and this will save you time and ensure you
+have a consistent look across the board.
+To do that we’ll go to the Project panel,
+right click and select from the dropdown menu…
+choose New Item… then Adjustment Layer.
+A prompt will appear and we’ll just click
+ok.
+We’ll drag the Adjustment Layer to the second
+video layer over top of our video clips and
+any adjustment or color treatments we apply
+here, will be applied to all the clips underneath
+the adjustment layer.
+Pretty sweet huh?
+Alright now let’s create the look.
+Make sure the adjustment layer is selected
+and we’re going to skip and go straight
+past the basic correction panel to the curves
+where we’ll have more creative control.
+And a quick crash course on the way this works
+in case you haven’t already used these in
+Photoshop is bottom point adjusts the shadows,
+the top point adjusts the highlights and we
+can make as many points as we want on the
+curve in between to shape the tonal range.
+In this case we don’t want to affect the
+highlights or the shadows too much so we’ll
+create contrast in-between these areas known
+as the undertones and midtones.
+I’ll make a point here in the midtones and
+drag it up.
+This improves our exposure but makes the undertones
+look a little washed out.
+So let’s add another point here and drag
+it down to adjust the density of the undertones,
+there that looks nice, now we have a much
+richer contrast.
+For color we need to push teal into the overall
+image but without affecting the skin tones.
+So let me show you how we’ll do this, we’ll
+go to the HSL Secondary panel and use the
+eyedropper to select our talent’s skin.
+We’ll then refine our selection with the
+Hue, Sat and luma sliders.
+Then add some denoise and blur for good measure.
+Then what we need to do since we currently
+have our skin tones selected is to actually
+invert our selection (like so) and now we
+can use the color wheel to introduce teal
+into the image with affecting the skin tones.
+Now we are onto something… right?
+But we are not there yet.
+Something is off.
+Because we pushed teal into the entire tonal
+range our shadows also look teal, so we’ll
+want to clean them up so we can have clean black
+shadows.
+To do that I’m going to show you a really
+awesome trick.
+I’ll add another instance of lumetri…
+go to the Hue Saturation Curves panel.
+Then go to the Luma vs Sat curve.
+Now the way this tool works is the shadows
+are to the left and the highlights are to
+the right, and then anywhere that we place
+points on the curve, we are able to adjust
+the saturation for that part of the tonal
+range by either pulling up to increase the
+saturation or pulling down to decrease it.
+So this is really cool way for selectively
+reducing the saturation in the shadows without
+affecting anything else so we’ll place a
+point here so nothing above is affected and
+then we’ll drag the left point all the way
+down to reduce the saturation in the shadows.
+Voila our shadows are nice and clean and the
+skin tones and everything else kept their
+saturation.
+If I toggle this instance of lumetri off and
+back on again… you can see the difference
+it made in pulling the teal out of the shadows
+on the walls, her hair and the trash can.
+Okay, so don’t forget that cool trick.
+Now, just to play with these yellow poles
+to have them have a closer tone to her coat
+and skin tones, so this is more orange teal
+we’ll go to the Hue Saturation Curves panel,
+and under the Hue vs Hue curve we’ll use
+the eyedropper to isolate the yellow range.
+And drag it up to introduce more warmth into the poles.
+As a final touch, I want to apply one of the LUTs from Ascend that’s available
+for download when you sign up for the free
+workshop.
+Let’s add another instance of Lumetri and
+go to the creative panel.
+From there we can browse our LUTs and I’ll
+choose the 3strip LUT.
+Now at first it’s too strong but that’s
+okay because we can dial it back to taste
+with the intensity slider.
+What an awesome look!
+Now if any of this, has seemed overwhelming
+to you I want to let you know about a great
+alternative that we’ve developed as a plugin.
+For content creators who don’t want to specialize
+as a colorist but still need a professional
+look with on screen grading, lightroom style
+controls, false color mode for landing the
+correct exposure and real time preview of
+LUTs and presets, you can find out more about
+Cinema Grade I’ll have a link for it in
+the description below.
+So that’s just an alternative.
+Now I know that I covered a lot of things
+here, but my purpose was to help you get started
+with seeing a difference in your films today.
+If you’re looking for more guided help in
+discovering the power of color grading I want
+to invite you to our 1-hour color grading
+workshop where I reveal the top color grading
+secrets used in Hollywood and how best to
+do color grading in Premiere Pro CC.
+You’ll find a link to register for the workshop
+in the description below this video.
+In the web class I reveal how I went from
+being a wedding videographer down to 0 wedding
+bookings during the recession of 2008 to improving
+the look of my films and landing client work
+with some of the biggest brands like Facebook.
+I reveal the same techniques that have had
+the biggest impact on my career, so if you’re
+serious and want to be guided every step of
+the the way you won’t want to miss it.
+I also want to point that if you want to learn
+more about our Color Grading Academy it’s
+the only way you can do that.
+People ask if we do formal training, well
+this is your opportunity to discover that
+and we’ll have a special offer for the it
+at the end of the presentation.
+So be sure to save your seat, click the subscribe
+button and then the bell for more grading
+videos!
+I hope you enjoyed this beginner crash course
+as much I enjoyed creating it for you and
+I look forward to seeing you at the training.
+Have a great day!
